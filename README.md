@@ -4,6 +4,7 @@
 ![Platform](https://img.shields.io/badge/platform-Java%20Swing-blue?edge_flat=false)
 ![Last Commit](https://img.shields.io/github/last-commit/dongx0915/WePLi-Android?edge_flat=false)
 
+<br>
 
 ## 🖥️ 시연 영상
 [![Video Label](http://img.youtube.com/vi/WYE8IPbEnQI/0.jpg)](https://youtu.be/WYE8IPbEnQI)
